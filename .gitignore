@@ -1,3 +1,5 @@
 tf_nndistance_g.o
 tf_nndistance_so.so
 *.pyc
+/src/chamfer_distance.egg-info/
+/build/
